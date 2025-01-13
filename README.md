@@ -1,4 +1,4 @@
-## Wang Xue 👋
+## Wang Xue 
 ## Overview
 
 I serve as the Director of the Technical Center at Wuhan Zhixing International Engineering Consulting Co., Ltd. My work focuses on the digital transformation of transportation infrastructure, addressing gaps in digital construction and engineering digital twin technologies. With experience in over 60 major national and international projects, I have successfully integrated digital technologies into project management and production, establishing benchmarks for digital applications in the industry.
